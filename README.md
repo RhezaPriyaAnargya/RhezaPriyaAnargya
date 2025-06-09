@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Rheza Priya Anargya</h1>
+<h1 align="center">GUE TUH SI PALING AZKI</h1>
 <h3 align="center">Student • Developer • AZKi & Hololive Fan 🎵🌸</h3>
 
 ## 🌐 Socials:
