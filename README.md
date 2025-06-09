@@ -1,6 +1,8 @@
 <h1 align="center">GUE TUH SI PALING AZKI</h1>
 <h3 align="center">Student • Developer • AZKi & Hololive Fan 🎵🌸</h3>
 
+<div class="tenor-gif-embed" data-postid="18369401172625758688" data-share-method="host" data-aspect-ratio="0.564257" data-width="100%"><a href="https://tenor.com/view/azki-hololive-holo-0th-gen-thumbs-up-anime-gif-18369401172625758688">Azki Hololive GIF</a>from <a href="https://tenor.com/search/azki-gifs">Azki GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/rhejaa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rheza-priya-anargya-4037421b7/) 
