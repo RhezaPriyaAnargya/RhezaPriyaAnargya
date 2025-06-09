@@ -2,6 +2,8 @@
 <h3 align="center">Student • Developer • AZKi & Hololive Fan 🎵🌸</h3>
 
 ![azki1](https://github.com/user-attachments/assets/c3ac4455-2e5d-41c8-ae5d-b5798bc6e12d)
+![vtuber-hololive](https://github.com/user-attachments/assets/ab628381-0d61-48ad-80a9-485e0d1f2d36)
+![hololive-ホロライブ](https://github.com/user-attachments/assets/6d282c4a-488a-4687-b825-411d8895302e)
 
 
 ## 🌐 Socials:
