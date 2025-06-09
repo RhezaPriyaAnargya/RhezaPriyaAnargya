@@ -1,5 +1,4 @@
-<h1 align="center">🔥 GUE TUH SI PALING AZKI 🔥</h1>
-<h3 align="center">Student • Developer • AZKi & Hololive Fan 🎵🌸</h3>
+<h3 align="center">Student • Developer • AZKi OSHI🎵🌸</h3>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/5013ed59-2b02-4499-a88f-8aa00073ad1f" alt="azkilightsaber" width="400"/>
@@ -8,7 +7,7 @@
 ---
 
 ## 🌸 Who Am I?
-Hey, I'm **Rheza Priya Anargya** — seorang developer pemula dan mahasiswa kaitakusha (開拓者), diva virtual dari Hololive!  
+Hey, I'm **Rheza Priya Anargya** — seorang developer pemula dan mahasiswa biasa
 
 > 🗣️ “AZKi CAKEP BANGET WOI.”  
 
@@ -47,15 +46,6 @@ Hey, I'm **Rheza Priya Anargya** — seorang developer pemula dan mahasiswa kait
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=RhezaPriyaAnargya&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
 </p>
-
----
-
-## 🎵 AZKi’s Spirit Lives in My Code!
-- 🧠 Favorite quote: *"I'll ZeroGuessr your heart."*
-- 🎶 Lagu andalan waktu ngoding:
-  - **Arigatou** 
-  - **Akenai Yoru Ga Attanara** 
-  - **The Last Frontier** 
 
 ---
 
