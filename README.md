@@ -1,6 +1,5 @@
-# 💫 About Me:
-✨ About Me<br>Hi there! 👋<br>I'm Rheza Priya Anargya, a passionate computer science student interested in software development, especially in web development, desktop applications, and clean UI design. Currently pursuing my studies at [your university, if you'd like to add it], I enjoy turning ideas into real-world projects using technologies like PHP, Java (Swing), MySQL, and Bootstrap.
-
+<h1 align="center">Hi there 👋, I'm Rheza Priya Anargya</h1>
+<h3 align="center">Student • Developer • AZKi & Hololive Fan 🎵🌸</h3>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/rhejaa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rheza-priya-anargya-4037421b7/) 
