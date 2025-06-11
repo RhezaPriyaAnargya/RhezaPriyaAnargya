@@ -1,4 +1,4 @@
-<h3 align="center">Student • Developer • AZKi OSHI🎵🌸</h3>
+<h3 align="center">Student • Developer • 🌸</h3>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/5013ed59-2b02-4499-a88f-8aa00073ad1f" alt="azkilightsaber" width="400"/>
