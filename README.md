@@ -8,9 +8,6 @@
 
 ## 🌸 Who Am I?
 Hey, I'm **Rheza Priya Anargya** — seorang developer pemula dan mahasiswa biasa
-
-> 🗣️ “AZKi CAKEP BANGET WOI.”  
-
 ---
 
 ## 🌐 Find Me Online:
